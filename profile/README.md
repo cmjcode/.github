@@ -23,6 +23,13 @@ To learn more about our ongoing philanthropic activities and community initiativ
 * **100% Free & Open:** Accessible to everyone for learning, self-hosting, and community-driven innovation.
 
 
+### 🚀 Featured Projects
+
+* **[Tabular](https://github.com/cmjcode/tabular)** [![GitHub Repo](https://img.shields.io/badge/GitHub-tabular-blue?logo=github)](https://github.com/CMJ-Family/tabular)  
+  *High-performance tabular data tool built for production-grade workflows.*
+
+* **[Ducad](https://github.com/cmjcode/ducad)** [![GitHub Repo](https://img.shields.io/badge/GitHub-ducad-blue?logo=github)](https://github.com/CMJ-Family/ducad)  
+  *Commercial-grade CAD and design engine crafted for precision and open collaboration.*
 
 ### 🤝 Contributing
 
