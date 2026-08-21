@@ -10,7 +10,7 @@
 
 Our work carries forward the lifelong mission and values of **Ibu Ngatiyem**, who devoted her life to helping others, uplifting communities, and creating meaningful impact. In honor of her legacy, we channel that spirit of service into technology by delivering fully open-source software built to the rigorous standards, performance, and polish of premium enterprise products—accessible to everyone, anywhere, at no cost.
 
-To learn more about our ongoing philanthropic activities and community initiatives, visit online at : **[ngatiyem.org](https://ngatiyem.org/)** or visit our basecamp at **[Joglo Ngatiyem](https://ngatiyem.org/](https://maps.app.goo.gl/AYwJqXZjUyBA9S396)** 
+To learn more about our ongoing philanthropic activities and community initiatives, visit online at : **[ngatiyem.org](https://ngatiyem.org/)** or visit our basecamp at  **[Joglo Ngatiyem](https://maps.app.goo.gl/AYwJqXZjUyBA9S396/)**
 
 
 ---
